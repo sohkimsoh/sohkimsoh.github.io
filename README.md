@@ -1,1 +1,0 @@
-# sohkimsoh.github.io

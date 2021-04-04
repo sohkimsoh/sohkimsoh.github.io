@@ -1,0 +1,27 @@
+:root {
+	--heading-h1-padding: 0;
+	--heading-h3-margin: 0;
+	--heading-h3-padding: 0;
+  --base-font-family: Nunito;
+}
+
+.app-name img {
+  width: 150px;
+  height: 150px;
+}
+
+.sidebar-nav a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+.sidebar-nav li.active>a {
+  color: pink;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.sidebar-nav li>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
+  color: pink;
+  font-weight: 600;
+}
