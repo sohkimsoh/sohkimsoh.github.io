@@ -1,8 +1,8 @@
-- [Illustrations](pages/illustrations)
-- [Graphic Design](pages/graphic-design)
-- [Traditional](pages/traditional)
-- [Architecture](pages/architecture)
-- [Animations](pages/animations)
+- [Illustrations](illustrations)
+- [Graphic Design](graphic-design)
+- [Traditional](traditional)
+- [Architecture](architecture)
+- [Animations](animations)
 - [Blog](https://sohkimsoh.medium.com/)
 - [Podcast](https://www.youtube.com/channel/UC3c9rB4impCRQTh4Fx9u5ZA)
 - **Links**
