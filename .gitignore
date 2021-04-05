@@ -1,3 +1,3 @@
 *.DS_store
 *.DS_Store
-markdown-img-helper.js
+/js/markdown-img-helper.js

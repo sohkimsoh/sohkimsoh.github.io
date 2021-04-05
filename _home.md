@@ -1,4 +1,4 @@
-![Avi](images/avi.png)
+![Avi](../images/avi.png)
 
 # hi hi ~
 
