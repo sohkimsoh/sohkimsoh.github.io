@@ -1,4 +1,4 @@
-const defaultColor = '4d4d4d'
+const defaultColor = '4D4D4D'
 const pink = 'FFC0CB'
 
 iconHover = (e) => {
