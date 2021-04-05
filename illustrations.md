@@ -38,18 +38,18 @@ A polaroid project I created for my boyfriend's (now husband's) birthday. I used
 
 _Created in 2019_
 
-![coca-cola](images/illustrations/polaroid/coca-cola.png)
-![antique-store](images/illustrations/polaroid/antique-store.png ':size=24%')
-![beach-ep](images/illustrations/polaroid/beach-ep.png ':size=24%')
-![birthday-food](images/illustrations/polaroid/birthday-food.png ':size=24%')
-![campfire-days-2](images/illustrations/polaroid/campfire-days-2.png ':size=24%')
-![merry-go-round](images/illustrations/polaroid/merry-go-round.png ':size=24%')
-![neko-neko-2](images/illustrations/polaroid/neko-neko-2.png ':size=24%')
-![piano-in-BIG](images/illustrations/polaroid/piano-in-BIG.png ':size=24%')
-![snow-day](images/illustrations/polaroid/snow-day.png ':size=24%')
-![swimming-party](images/illustrations/polaroid/swimming-party.png ':size=24%')
-![team-canada](images/illustrations/polaroid/team-canada.png ':size=24%')
-![zoo-birthday](images/illustrations/polaroid/zoo-birthday.png ':size=24%')
+![coca-cola](images/illustrations/polaroid/coca-cola-c.png)
+![antique-store](images/illustrations/polaroid/antique-store-c.png ':size=24%')
+![beach-ep](images/illustrations/polaroid/beach-ep-c.png ':size=24%')
+![birthday-food](images/illustrations/polaroid/birthday-food-c.png ':size=24%')
+![campfire-days](images/illustrations/polaroid/campfire-days-c.png ':size=24%')
+![merry-go-round](images/illustrations/polaroid/merry-go-round-c.png ':size=24%')
+![neko-neko](images/illustrations/polaroid/neko-neko-c.png ':size=24%')
+![piano-in-BIG](images/illustrations/polaroid/piano-in-BIG-c.png ':size=24%')
+![snow-day](images/illustrations/polaroid/snow-day-c.png ':size=24%')
+![swimming-party](images/illustrations/polaroid/swimming-party-c.png ':size=24%')
+![team-canada](images/illustrations/polaroid/team-canada-c.png ':size=24%')
+![zoo-birthday](images/illustrations/polaroid/zoo-birthday-c.png ':size=24%')
 ![disney-castle](images/illustrations/polaroid/disney-castle.png ':size=24%')
 
 ## Pokemon From Memory
