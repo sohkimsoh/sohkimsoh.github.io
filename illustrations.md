@@ -38,19 +38,19 @@ A polaroid project I created for my boyfriend's (now husband's) birthday. I used
 
 _Created in 2019_
 
-![coca-cola](images/illustrations/polaroid/coca-cola-c.png)
-![antique-store](images/illustrations/polaroid/antique-store-c.png ':size=24%')
-![beach-ep](images/illustrations/polaroid/beach-ep-c.png ':size=24%')
-![birthday-food](images/illustrations/polaroid/birthday-food-c.png ':size=24%')
-![campfire-days](images/illustrations/polaroid/campfire-days-c.png ':size=24%')
-![merry-go-round](images/illustrations/polaroid/merry-go-round-c.png ':size=24%')
-![neko-neko](images/illustrations/polaroid/neko-neko-c.png ':size=24%')
-![piano-in-BIG](images/illustrations/polaroid/piano-in-BIG-c.png ':size=24%')
-![snow-day](images/illustrations/polaroid/snow-day-c.png ':size=24%')
-![swimming-party](images/illustrations/polaroid/swimming-party-c.png ':size=24%')
-![team-canada](images/illustrations/polaroid/team-canada-c.png ':size=24%')
-![zoo-birthday](images/illustrations/polaroid/zoo-birthday-c.png ':size=24%')
-![disney-castle](images/illustrations/polaroid/disney-castle.png ':size=24%')
+![coca-cola](images/illustrations/polaroid/coca-cola-c.jpg)
+![antique-store](images/illustrations/polaroid/antique-store-c.jpg ':size=24%')
+![beach-ep](images/illustrations/polaroid/beach-ep-c.jpg ':size=24%')
+![birthday-food](images/illustrations/polaroid/birthday-food-c.jpg ':size=24%')
+![campfire-days](images/illustrations/polaroid/campfire-days-c.jpg ':size=24%')
+![merry-go-round](images/illustrations/polaroid/merry-go-round-c.jpg ':size=24%')
+![neko-neko](images/illustrations/polaroid/neko-neko-c.jpg ':size=24%')
+![piano-in-BIG](images/illustrations/polaroid/piano-in-BIG-c.jpg ':size=24%')
+![snow-day](images/illustrations/polaroid/snow-day-c.jpg ':size=24%')
+![swimming-party](images/illustrations/polaroid/swimming-party-c.jpg ':size=24%')
+![team-canada](images/illustrations/polaroid/team-canada-c.jpg ':size=24%')
+![zoo-birthday](images/illustrations/polaroid/zoo-birthday-c.jpg ':size=24%')
+![disney-castle](images/illustrations/polaroid/disney-castle.jpg ':size=24%')
 
 ## Pokemon From Memory
 
