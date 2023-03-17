@@ -4,7 +4,6 @@
 - [Architecture](architecture)
 - [Animations](animations)
 - [Blog](https://sohkimsoh.medium.com/)
-- [Podcast](https://www.youtube.com/channel/UC3c9rB4impCRQTh4Fx9u5ZA)
 - **Links**
 <!-- HTML to enable icon hover change -->
 <li onmouseover="iconHover(this)" onmouseout="iconUnhover(this)">
